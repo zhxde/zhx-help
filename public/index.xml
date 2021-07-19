@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo tranquilpeak theme</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>系统说明</title>
+      <link>https://example.org/index/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建设工程消防设计审查</title>
+      <link>https://example.org/shencha/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/shencha/</guid>
+      <description>1、流程图
+2、帮办人员填写单位信息 3、建设单位进行填写单位信息 4、建设单位上传附件 5、发送审查部门签批 有文件不通过退回后，建设单位重新填写申报表、上传退回的附件； 6、科室负责人审批 7、分管领导签批 8、电子签章 9、下载审查意见书 </description>
+    </item>
+    
+    <item>
+      <title>建设工程消防验收</title>
+      <link>https://example.org/yanshou/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/yanshou/</guid>
+      <description>1、流程图
+2、帮办人员选择业务类型 2、帮办人员填写单位信息 3、建设单位进行填写单位信息 4、建设单位上传附件 5、政务中心资料审核  有文件不通过退回后，建设单位重新填写申报表、上传退回的附件； 6、分配检查人员和技术复核人； 7、被分配的检查人员现场验收，现场验收合格前往审批流程；  未现场验收合格前往问题整改回复；  如建设单位长时间未回复或点击整改失败验收不合格，将直接发放《特殊建设工程消防验收意见书(不合格)》；  整改完成后前往审批流程； 8、检查人意见审核 9、技术复核人审核 10、科室负责人审核 11、局分管领导审核 12、电子签章 13、下载审查意见书 </description>
+    </item>
+    
+    <item>
+      <title>建设工程消防备案抽查</title>
+      <link>https://example.org/beian/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/beian/</guid>
+      <description>1、流程图
+2、帮办人员选择业务类型 2、帮办人员填写单位信息 3、建设单位进行填写单位信息 4、建设单位上传附件 5、政务中心资料审核  有文件不通过退回后，建设单位重新填写申报表、上传退回的附件； 6、抽取是否需要现场验收； 如果抽中了需要进入现场验收, 如果未抽中则跳过现场验收； 7、分配检查人员和技术复核人； 8、被分配的检查人员现场验收，现场验收合格前往审批流程；  未现场验收合格前往问题整改回复；  如建设单位长时间未回复或点击整改失败验收不合格，将直接发放《特殊建设工程消防验收意见书(不合格)》；  整改完成后前往审批流程； 8、检查人意见审核 9、技术复核人审核 10、科室负责人审核 11、局分管领导审核 12、电子签章 13、下载审查意见书 </description>
+    </item>
+    
+  </channel>
+</rss>
